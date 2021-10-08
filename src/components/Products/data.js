@@ -27,7 +27,7 @@ export const productData = [
     alt: 'Pizza',
     name: 'Végetarienne',
     desc: ' sauce Marina, basilic, saucisse italienne, tomates roma, olives, and pesto',
-    price: '14.9€9',
+    price: '14.99€',
     button: 'Ajoutez une carte',
   },
 ];
