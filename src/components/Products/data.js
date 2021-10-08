@@ -53,7 +53,7 @@ export const productDataTwo = [
     img: sweet1,
     alt: 'Brownie',
     name: 'Brownie',
-    desc: ' Carrés de brownie double fudge garnis de morceaux de chocolat blanc et de noix de macadamia',
+    desc: ' Carrés de brownie garnis de morceaux de chocolat blanc et de noix de macadamia',
     price: '9.99€',
     button: 'Ajoutez une carte',
   },
